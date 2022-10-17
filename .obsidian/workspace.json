@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test dir/test in dir.md",
+                "file": "Test remote.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test dir/test in dir.md",
+                "file": "Test remote.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test dir/test in dir.md",
+                "file": "Test remote.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test dir/test in dir.md"
+                "file": "Test remote.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "4a86e173b92ad268",
+  "active": "cdf1bfa1e62993d7",
   "lastOpenFiles": [
+    "test dir/test in dir.md",
     "Test remote.md"
   ]
 }
